@@ -1,3 +1,5 @@
+//for command line tutorial
+//Github modification
 #include <stdio.h>
 
 int main() {
