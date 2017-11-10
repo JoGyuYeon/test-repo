@@ -1,3 +1,5 @@
+// For command line git tutorial
+//local reponsibility
 #include <stdio.h>
 
 int main() {
